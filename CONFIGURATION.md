@@ -30,7 +30,7 @@
 
 ## 5. Assignació de rols i permisos
 
-## Cuando hemos creado las cuentas hemos creado 3 usuarios con diferentess roles. El admin tiene permiso para todo lo que tiene que ver con la administracion del sistema. El editor es el que edita todo. Y por ultimo el visualizador que se encarga de visulalizar  
+## Cuando hemos creado las cuentas hemos creado 3 usuarios con diferentess roles. El admin tiene permiso para todo lo que tiene que ver con la administracion del sistema. El editor es el que edita todo. Y por ultimo el visualizador que se encarga de visualizar que todo este correcto.  
 <img width="1234" height="139" alt="Captura de pantalla 2025-12-04 131322" src="https://github.com/user-attachments/assets/38a25e6c-343e-4791-8478-26e3d3601cc0" />
 
 
