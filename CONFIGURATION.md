@@ -28,30 +28,43 @@
 <img width="226" height="228" alt="Captura de pantalla 2025-12-04 123457" src="https://github.com/user-attachments/assets/e63a3b13-aa27-4728-be5e-838baa344e4c" />
 <img width="604" height="641" alt="Captura de pantalla 2025-12-04 122413" src="https://github.com/user-attachments/assets/bb4e975b-8f6d-417d-9d54-2a801e7b2eee" />
 
-## 5. Assignació de rols i permisos
+## 5. Assignacion de roles y permisos
 
-## Administrador (Admin)
+***Admin***
 
-## Tiene acceso total. Puede crear, editar y borrar cualquier archivo. Puede gestionar usuarios y roles.
+- Tiene acceso total. Puede crear, editar y borrar cualquier archivo. Puede gestionar usuarios y roles.
 
-## Editor
+***Editor***
 
-## Puede crear, modificar y borrar archivos. Puede publicar o actualizar archivos existentes.
+- Puede crear, modificar y borrar archivos. Puede publicar o actualizar archivos existentes.
 
-## Visualizador
+***Visualizador***
 
-## Solo puede ver y consultar el contenido. No puede editar, borrar ni crear archivos. 
+- Solo puede ver y consultar el contenido. No puede editar, borrar ni crear archivos. 
 <img width="1015" height="288" alt="image" src="https://github.com/user-attachments/assets/84fa30b3-1554-4147-a5e1-091047802454" />
 
-## 6. Demostrar l’efecte dels permisos
+## 6. Demostrar el efecto de los permisos
 
 ## Cuando inicio session como visualitzador en NextCloud en el apartado de compartir no me sale que permiso tiene cada uno, Pero cuando inicio session como editor o admin si me sale los permisos que tiene
 <img width="308" height="618" alt="Captura de pantalla 2025-12-04 150112" src="https://github.com/user-attachments/assets/3c3eea97-fc9f-4375-b783-cecb896fe191" />
 <img width="489" height="481" alt="Captura de pantalla 2025-12-04 154401" src="https://github.com/user-attachments/assets/492da0c4-facd-46b7-a869-5ab340133fa3" />
 
 
-## 7. Organització de carpetes i fitxers
-### He creado esta carpeta llamada "Documents Personals" para organizar me mejor los documentos.
+## 7. Organizacion de carpetas y fitxeros
+### He creado esta carpeta llamada "Documentos Personales" para organizar mejor los documentos.
 <img width="781" height="469" alt="image" src="https://github.com/user-attachments/assets/8697b978-5c1e-4c6f-a82c-b2a09ba9979d" />
 
+### Y dentro de "Documentos Personales" he creado dos nuevas carpetas llamadas "Calendario" y "Tareas"
+<img width="1246" height="600" alt="Captura de pantalla 2025-12-04 193757" src="https://github.com/user-attachments/assets/c3d9228f-0ed5-40a2-a72f-637a6b9d2cf1" />
+
+# Politicas de seguridad
+<img width="476" height="633" alt="Captura de pantalla 2025-12-04 193928" src="https://github.com/user-attachments/assets/2249018c-75ed-459b-a01f-98eae9a96224" />
+
+### Primero hacemos clic en “Create public link” y luego pulsamos en los tres puntos que aparecen junto a “share link”. A continuación, seleccionamos “Customize link”, donde añadiremos una contraseña y una fecha de caducidad. De esta forma, cualquiera que reciba el enlace de nuestra carpeta necesitará introducir la contraseña para entrar, y el enlace dejará de ser válido una vez llegue la fecha que hayamos elegido.
+<img width="508" height="675" alt="Captura de pantalla 2025-12-04 193647" src="https://github.com/user-attachments/assets/aec93dad-f7d3-4d81-bda5-f1d0ab1ed72f" />
+
+## 8. Acceso desde una maquina cualquiera de la red 
+
+# Acceso desde cualquier equipo de la red local
+## Para usar Nextcloud desde otro dispositivo que no sea la máquina virtual, la máquina virtual debe estar conectada a la red local. Primero hay que saber cuál es su dirección IP y asegurarse de que el servidor web esté funcionando. Cuando todo esté listo, podrás entrar a Nextcloud desde cualquier dispositivo de la misma red poniendo la IP de la máquina virtual en el navegador.
 
