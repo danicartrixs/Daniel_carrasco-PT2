@@ -14,3 +14,9 @@
 <img width="1839" height="857" alt="Captura de pantalla 2025-11-27 140514" src="https://github.com/user-attachments/assets/0ccdbe7f-8461-4342-b031-bcf71ec58626" />
 <img width="540" height="266" alt="Captura de pantalla 2025-11-28 140511" src="https://github.com/user-attachments/assets/9244c88b-a558-4b24-9d64-dd1c57da9331" />
 <img width="536" height="322" alt="Captura de pantalla 2025-11-28 140657" src="https://github.com/user-attachments/assets/06ff1839-acf5-4f8a-bdec-34b9792571eb" />
+
+## 3. Compartir contenido
+
+## entramos y buscamos la carpeta que queremos compartir, cuando la hemos encontrado le damos al boton de compartir y le da mos a copiar enlace y ya lo tendriamos.
+<img width="869" height="73" alt="Captura de pantalla 2025-12-04 120112" src="https://github.com/user-attachments/assets/96188699-1075-41ca-80eb-989076c6bbd2" />
+<img width="298" height="379" alt="Captura de pantalla 2025-12-04 120119" src="https://github.com/user-attachments/assets/eaf2941b-f1dd-474a-822e-a77c4aab5620" />
