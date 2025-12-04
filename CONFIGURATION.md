@@ -28,7 +28,10 @@
 <img width="226" height="228" alt="Captura de pantalla 2025-12-04 123457" src="https://github.com/user-attachments/assets/e63a3b13-aa27-4728-be5e-838baa344e4c" />
 <img width="604" height="641" alt="Captura de pantalla 2025-12-04 122413" src="https://github.com/user-attachments/assets/bb4e975b-8f6d-417d-9d54-2a801e7b2eee" />
 
+## 5. Assignació de rols i permisos
 
+## Cuando hemos creado las cuentas hemos creado 3 usuarios con diferentess roles. El admin tiene permiso para todo lo que tiene que ver con la administracion del sistema. El editor es el que edita todo. Y por ultimo el visualizador que se encarga de visulalizar  
+<img width="1234" height="139" alt="Captura de pantalla 2025-12-04 131322" src="https://github.com/user-attachments/assets/38a25e6c-343e-4791-8478-26e3d3601cc0" />
 
 
 
