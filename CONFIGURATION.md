@@ -17,7 +17,7 @@
 
 ## 3. Compartir contenido
 
-## entramos y buscamos la carpeta que queremos compartir, cuando la hemos encontrado le damos al boton de compartir y le da mos a copiar enlace y ya lo tendriamos.
+## Entramos y buscamos la carpeta que queremos compartir, cuando la hemos encontrado le damos al boton de compartir y le da mos a copiar enlace y ya lo tendriamos.
 <img width="869" height="73" alt="Captura de pantalla 2025-12-04 120112" src="https://github.com/user-attachments/assets/96188699-1075-41ca-80eb-989076c6bbd2" />
 <img width="298" height="379" alt="Captura de pantalla 2025-12-04 120119" src="https://github.com/user-attachments/assets/eaf2941b-f1dd-474a-822e-a77c4aab5620" />
 
