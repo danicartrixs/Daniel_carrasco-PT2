@@ -30,7 +30,25 @@
 
 ## 5. Assignació de rols i permisos
 
-## Cuando hemos creado las cuentas hemos creado 3 usuarios con diferentess roles. El admin tiene permiso para todo lo que tiene que ver con la administracion del sistema. El editor es el que edita todo. Y por ultimo el visualizador que se encarga de visualizar que todo este correcto.  
+## Administrador (Admin)
+
+Tiene acceso total.
+Puede crear, editar y borrar cualquier archivo.
+Puede gestionar usuarios y roles.
+Puede configurar ajustes del sistema o del archivo.
+Es el rol con mayor nivel de control.
+Editor
+
+Puede crear, modificar y borrar archivos.
+Puede publicar o actualizar archivos existentes.
+No puede gestionar usuarios ni configuraciones del sistema.
+Su trabajo se centra en el contenido, no en la administración.
+Visualizador
+
+Solo puede ver y consultar el contenido.
+No puede editar, borrar ni crear archivos.
+Tampoco puede acceder a configuraciones ni gestión de usuarios.
+Es un rol solo de lectura.
 <img width="1015" height="288" alt="image" src="https://github.com/user-attachments/assets/84fa30b3-1554-4147-a5e1-091047802454" />
 
 
