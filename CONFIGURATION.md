@@ -31,7 +31,14 @@
 ## 5. Assignació de rols i permisos
 
 ## Cuando hemos creado las cuentas hemos creado 3 usuarios con diferentess roles. El admin tiene permiso para todo lo que tiene que ver con la administracion del sistema. El editor es el que edita todo. Y por ultimo el visualizador que se encarga de visualizar que todo este correcto.  
-<img width="1234" height="139" alt="Captura de pantalla 2025-12-04 131322" src="https://github.com/user-attachments/assets/38a25e6c-343e-4791-8478-26e3d3601cc0" />
+<img width="1015" height="288" alt="image" src="https://github.com/user-attachments/assets/84fa30b3-1554-4147-a5e1-091047802454" />
+
+
+## 6. Demostrar l’efecte dels permisos
+
+## Debemos entrar en cada cuenta de los permisos. Primero entremas en la de editor donde nos saldra lo que vemos en la primera imagen. Segundo debemos entrar en la cuenta de visualizador.
+<img width="308" height="618" alt="Captura de pantalla 2025-12-04 150112" src="https://github.com/user-attachments/assets/3c3eea97-fc9f-4375-b783-cecb896fe191" />
+<img width="489" height="481" alt="Captura de pantalla 2025-12-04 154401" src="https://github.com/user-attachments/assets/492da0c4-facd-46b7-a869-5ab340133fa3" />
 
 
 
