@@ -20,3 +20,15 @@
 ## entramos y buscamos la carpeta que queremos compartir, cuando la hemos encontrado le damos al boton de compartir y le da mos a copiar enlace y ya lo tendriamos.
 <img width="869" height="73" alt="Captura de pantalla 2025-12-04 120112" src="https://github.com/user-attachments/assets/96188699-1075-41ca-80eb-989076c6bbd2" />
 <img width="298" height="379" alt="Captura de pantalla 2025-12-04 120119" src="https://github.com/user-attachments/assets/eaf2941b-f1dd-474a-822e-a77c4aab5620" />
+
+## 4. Creacion de usuarios
+
+## Entramos y le damos arriba a la derecha a donde esta el perfil, nos desplegara una tabla que tenemos que darle a cuentas. Ahi nos abrira una nueva pestaña donde nos saldra para crear cuentas nuevas, y ahi debemos crear 3 cuentas, 1 como admin, otra como editor y por ultimo otra como visualizador.
+<img width="267" height="390" alt="Captura de pantalla 2025-12-04 123334" src="https://github.com/user-attachments/assets/30cc0d27-0219-4295-8534-b8e4a106a0b9" />
+<img width="226" height="228" alt="Captura de pantalla 2025-12-04 123457" src="https://github.com/user-attachments/assets/e63a3b13-aa27-4728-be5e-838baa344e4c" />
+<img width="604" height="641" alt="Captura de pantalla 2025-12-04 122413" src="https://github.com/user-attachments/assets/bb4e975b-8f6d-417d-9d54-2a801e7b2eee" />
+
+
+
+
+
